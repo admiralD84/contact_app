@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="search">Search</string>
+    <string name="not_contacts_yet">Hozircha kontaktlar mavjud emas...</string>
+    <string name="add_photo">Rasm qo\'shish</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="save">Saqlash</string>
+    <string name="et_last_name">Last Name</string>
+    <string name="et_organization">Organization</string>
+    <string name="et_first_name">First Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="e_mail">E-mail</string>
+    <string name="male">Erkak</string>
+    <string name="female">Ayol</string>
+    <string name="add_contact">Kontakt qo\'shish</string>
+</resources>
